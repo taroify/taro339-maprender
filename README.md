@@ -3,7 +3,7 @@
 当 ScrollView children 是一个由 View 包裹的组件数组，在同时更新组件数组和 scrollLeft 会存在子数组内部排序混乱的问题。
 
 
-![h5](https://raw.githubusercontent.com/taroify/taro339-maprender/main/images/render.png)
+![h5](https://raw.githubusercontent.com/taroify/taro339-maprender/main/images/rerender.png)
 
 代码如下：
 
