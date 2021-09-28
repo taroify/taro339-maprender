@@ -47,5 +47,5 @@ export default function Index() {
   )
 }
 ```
-nodes 的顺序是 1,2 但是当改变 scrollLeft 值以后出现顺序错乱的问题。
+nodes 的顺序是 1,2 但是当改变 scrollLeft 值以后出现顺序错乱为 2,1。
 
