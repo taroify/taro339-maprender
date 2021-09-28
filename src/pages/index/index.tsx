@@ -21,7 +21,7 @@ function NodeWrapper(props: NodeWrapperProps) {
 
   useEffect(() => {
     if (index === 1) {
-      setScrollLeft(-187.5)
+      setScrollLeft(1)
     }
   }, [index])
 
